@@ -28,6 +28,6 @@ The **Growth Plan**:
 \
 \
 \
-What is happening right now??
+**What is happening right now??**
 - In the process of updating the design
 - Finalizing algorithms/fuctionality 
