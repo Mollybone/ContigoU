@@ -1,5 +1,5 @@
 # ContigoU
-A repository containing all software including code and designs relevant to ContigoU (contigou.com) website. Any piece of software posted has been placed under a strict copyright for private use only. Anyone found under violation of such copyright will be prosecuted to the fullest extent of the law. 
+A repository containing all software including code and designs relevant to ContigoU (contigou.com) website. Any piece of software posted has been placed under a strict copyright for private use only. 
 \
 \
 \
