@@ -11,11 +11,6 @@ ContigoU (contigou.com) is a website that gives patients a hotel style search en
 \
 \
 \
-The PROBLEMS we are solving:
-![screen shot 2018-05-12 at 12 21 14 pm](https://user-images.githubusercontent.com/31325821/39960857-136feb72-55df-11e8-8fbc-e29e6ea0f298.png)
-\
-\
-\
 Finding a facility is **HARD**:
 * Not enough time to choose 
 * No guidance from the hospital
