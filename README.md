@@ -25,4 +25,9 @@ Finding a facility is **HARD**:
 \
 The **Growth Plan**:
 ![screen shot 2018-05-12 at 12 32 17 pm](https://user-images.githubusercontent.com/31325821/39960927-ab64c104-55e0-11e8-9ef1-78a5a1e6b7ae.png)
-
+\
+\
+\
+What is happening right now??
+- In the process of updating the design
+- Finalizing algorithms/fuctionality 
