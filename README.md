@@ -7,7 +7,7 @@ A repository containing all software including code and designs relevant to Cont
 \
 \
 \
-ContigoU (contigou.com) is a website that gives patients a hotel style search engine for Skilled Nursing Rehab. It combines complex algorithms with hundreds of hours of manual labor to creates the ultimate site to solve the problems rampant throughout the healthcare industry. 
+ContigoU (contigou.com) is a website that gives patients a hotel style search engine for Skilled Nursing Rehab. It combines complex algorithms with hundreds of hours of manual labor to create the ultimate site to solve the problems rampant throughout the healthcare industry. 
 \
 \
 \
